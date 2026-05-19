@@ -1,4 +1,4 @@
-# Mamta Tatikonda – QA Automation Engineer
+# Mamatha Thatikonda – QA Automation Engineer
 
 QA Engineer with 9+ years of experience in:
 - Selenium
@@ -10,7 +10,7 @@ QA Engineer with 9+ years of experience in:
 - Test Strategy & Automation Frameworks
 
 ## Resume
-[Download Resume](./Mamta_Tatikonda_Resume.pdf)
+[Download Resume](./Mamatha_Thatikonda_Resume.pdf)
 
 ## Skills
 - Selenium WebDriver
