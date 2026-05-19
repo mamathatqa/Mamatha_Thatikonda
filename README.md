@@ -14,8 +14,10 @@ QA Engineer with 9+ years of experience in:
 - German Resume: [Download Here](./Mamatha_Thatikonda_Lebenslauf.pdf)
 
 ## Skills
-- Selenium WebDriver
-- Cypress
+- Selenium WebDriver - Java
+- Cypress JS
+- Playwright JS
+- Python
 - REST API Testing
 - Postman
 - TestNG
