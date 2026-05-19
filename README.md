@@ -10,7 +10,8 @@ QA Engineer with 9+ years of experience in:
 - Test Strategy & Automation Frameworks
 
 ## Resume
-[Download Resume](./Mamatha_Thatikonda_Resume.pdf)
+- 🇬🇧 English Resume: [Download Here](./Mamatha_Thatikonda_Resume.pdf)
+- 🇩🇪 German Resume: [Download Here](./Mamatha_Thatikonda_Lebenslauf.pdf)
 
 ## Skills
 - Selenium WebDriver
