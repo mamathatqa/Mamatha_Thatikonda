@@ -32,5 +32,5 @@ Worked on:
 - Agile QA Processes
 
 ## Contact
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/mamatha-thatikonda-39830345/?skipRedirect=true
+- Email: mamatha.thatikonda@gmail.com
